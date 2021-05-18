@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "rescript": "^9.1.2"
+  },
+  "scripts": {
+    "start": "bsb -make-world -w"
+  }
+}
